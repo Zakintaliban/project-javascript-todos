@@ -36,7 +36,7 @@ button {
   cursor: pointer;
 }
 button:hover {
-  color: #333;
+  color: #fa9c1d;
 }
 /* Heading */
 h3,
@@ -55,8 +55,8 @@ input[type="text"] {
   line-height: 18px;
   height: 18px;
   padding: 10px;
-  border: 1px solid #ddd;
-  background: #333333;
+  border: 1px solid #4e3886;
+  background: #333;
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
@@ -82,7 +82,7 @@ p > button:hover {
 li {
   overflow: hidden;
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #333;
 }
 li > input[type="checkbox"] {
   margin: 0 10px;
